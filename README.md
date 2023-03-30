@@ -77,12 +77,12 @@ This repository contains the code (and a sample of data) of a research project a
 ├── images
 │   └── logos
 ├── outputs
-│   └── 1. disconnected graph
-│       ├── Graph Visualization
-│       └── Stats
+│   ├── Graph Visualization
+│   └── Stats
 └── utils
 
-14 directories
+13 directories
+
 ```
 
 ## Data
