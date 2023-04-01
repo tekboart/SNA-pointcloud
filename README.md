@@ -50,12 +50,12 @@
 ![seaborn](https://img.shields.io/badge/seaborn-svg?style=flat&color=79AAB6&label=&logoColor=white&labelColor=gray)
 ![DGL](https://img.shields.io/badge/Deep_Graph_Library-svg?style=flat&color=359BF0&label=DGL&logo=dgl&logoColor=white&labelColor=gray)
 
-This repository contains the code (and a sample of data) of a research project at the intersection of SNA, Graph ML, and built environment. This reserach encompasses several steps:
+This repository contains the code (and a sample of data) of a research project at the intersection of SNA, Graph ML, and the built environment. This research encompasses several steps:
 1. Importing point cloud data into python.
 1. Converting point cloud data to the corresponding Adjacency matrix.
 1. Creating an undirected Graph network (using igraph).
-1. Analyze the created Graph using different metrics (e.g., centerality measures).
-1. Conduct community detection (CD) on Graph using different methods (i.e., Label Propagation, Eigenvector, Infomap, and Components).
+1. Analyze the created Graph using different metrics (e.g., centrality measures).
+1. Conduct community detection (CD) on the graph using different methods (i.e., Label Propagation, Eigenvector, Infomap, and Components).
 1. Visualize and compare the results (of different CD methods)
 
 ## Requirements
@@ -90,12 +90,12 @@ Pointcloud data is a csv file with "space" separator, containg six/6 features (S
 
 <p align="center">
     <p align="center" style="font-size:90%;"><b>Table <a id="1">[1]</a> :</b> A sample of our input CSV data</p>
-    <p align="center"><img width="50%" src="images/dataset.jpg"></p>
+    <p align="center"><img width="30%" src="images/dataset.jpg"></p>
 </p>
 
 ## Contact
 <!-- Unfortunately this repo is no longer actively maintained.  -->
-If you have any question, feel free to contact TekBoArt @tekboart.
+If you have any questions, feel free to contact TekBoArt @tekboart.
 
 ## License
 <!-- Creative Common Licenses -->
