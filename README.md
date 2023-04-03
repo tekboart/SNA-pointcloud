@@ -41,7 +41,7 @@
 
 <hr height="10">
 
-# Social Network Analysis (SNA) & Graph ML to Detect Objects in Point Cloud Data using Community Detection
+# Social Network Analysis (SNA) & Graph ML to do Part Segmentation of Point Cloud Data using Community Detection
 ![Python](https://badges.aleen42.com/src/python.svg)
 ![igraph](https://img.shields.io/badge/igraph-svg?style=flat&color=yellow&label=&logoColor=white&labelColor=gray)
 ![Sklearn](https://img.shields.io/badge/scikit--learn-svg?style=flat&color=F7931E&logo=scikitlearn&logoColor=white&labelColor=gray)
